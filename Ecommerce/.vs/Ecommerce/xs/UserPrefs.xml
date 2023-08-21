@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1AB59C6C-D818-4663-A2DB-B61896753665}|https">
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Program.cs">
+    <Files>
+      <File FileName="API/API.csproj" />
+      <File FileName="API/Program.cs" Line="53" Column="1" />
+      <File FileName="DatabaseAccessLayer/BusinessLogic/CategoryBusinessLogic.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ecommerce" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DatabaseAccessLayer" expanded="True">
+              <Node name="BusinessLogic" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/bin/Debug/net7.0/DatabaseAccessLayer.deps.json
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/bin/Debug/net7.0/DatabaseAccessLayer.runtimeconfig.json
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/bin/Debug/net7.0/DatabaseAccessLayer.dll
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/bin/Debug/net7.0/DatabaseAccessLayer.pdb
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.csproj.AssemblyReference.cache
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.AssemblyInfoInputs.cache
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.AssemblyInfo.cs
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.csproj.CoreCompileInputs.cache
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.dll
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/refint/DatabaseAccessLayer.dll
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.pdb
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/DatabaseAccessLayer.genruntimeconfig.cache
+/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/Debug/net7.0/ref/DatabaseAccessLayer.dll
