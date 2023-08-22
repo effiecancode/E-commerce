@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q3Y5fKAIE4SLh4sZHSxoiUBL0Dwis2WZBOroFjRP2CHww9h0NZhf6MLJsgBhmV46hZskaWkJ7lkD/FWQL+OrWg==",
+  "dgSpecHash": "Z+wqbkD3ivESpRJ2Z2i/rf9SGMAyCwH1SJeoyOZ/GD8u/jw2D04kDm2jB1NjqFa45kUaACYb8dNM2/5ZIX9riw==",
   "success": true,
-  "projectFilePath": "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj",
+  "projectFilePath": "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

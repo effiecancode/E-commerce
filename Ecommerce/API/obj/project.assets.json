@@ -1476,11 +1476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/C-sharp2/c-sharp/Ecommerce/API/API.csproj",
+      "projectUniqueName": "/Users/mac/c-sharphome/E-commerce/Ecommerce/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/mac/C-sharp2/c-sharp/Ecommerce/API/API.csproj",
+      "projectPath": "/Users/mac/c-sharphome/E-commerce/Ecommerce/API/API.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/C-sharp2/c-sharp/Ecommerce/API/obj/",
+      "outputPath": "/Users/mac/c-sharphome/E-commerce/Ecommerce/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -1497,8 +1497,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj": {
-              "projectPath": "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj"
+            "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj": {
+              "projectPath": "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj"
             }
           }
         }

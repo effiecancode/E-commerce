@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N64wFQaAQzHMA7R1u0Qg2xR0ZbDyYgcz1ghn0YH0olqDS2Av+DIlwya7pUSj0uTRZhiUFRmTF0Ixk5AgDRv1Lw==",
+  "dgSpecHash": "PTCemziaHvzn+qS9PGzJjLERcU/YkSlguG0zOR0VqywAMR1S5s4YQceoLKaOErClFHkj6mc2l1QLD9PR16n0gQ==",
   "success": true,
-  "projectFilePath": "/Users/mac/C-sharp2/c-sharp/Ecommerce/API/API.csproj",
+  "projectFilePath": "/Users/mac/c-sharphome/E-commerce/Ecommerce/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

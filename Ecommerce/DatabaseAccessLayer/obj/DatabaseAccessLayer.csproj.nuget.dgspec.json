@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj": {}
+    "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj": {}
   },
   "projects": {
-    "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj": {
+    "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj",
+        "projectUniqueName": "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj",
         "projectName": "DatabaseAccessLayer",
-        "projectPath": "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj",
+        "projectPath": "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/DatabaseAccessLayer.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/C-sharp2/c-sharp/Ecommerce/DatabaseAccessLayer/obj/",
+        "outputPath": "/Users/mac/c-sharphome/E-commerce/Ecommerce/DatabaseAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
